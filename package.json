@@ -1,0 +1,16 @@
+{
+  "name": "google-charts-component",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "A native DOM component wrapper for Google Charts",
+  "author": {
+    "url": "https://github.com/lenaten"
+  },
+  "bugs": {
+    "url": "https://github.com/lenaten/google-charts-component/issues"
+  },
+  "dependencies": {
+    "nanocomponent": "^6.4.2"
+  },
+  "license": "MIT"
+}
